@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project focuses on **predicting weekly sales for each store** using various time series forecasting techniques.  
 The goal is to identify the best-performing model for accurate sales predictions, helping businesses in **inventory management**, **staff planning**, and **promotional strategies**.
+This project is a Time Series–based machine learning solution that predicts future retail sales and suggests optimal pricing strategies to maximize revenue.
 
 ---
 
@@ -10,6 +11,19 @@ The goal is to identify the best-performing model for accurate sales predictions
 - Predict **weekly store sales**.
 - Compare different forecasting models.
 - Identify trends, seasonality, and anomalies.
+
+---
+
+📂 Project Structure
+
+Retail-Sales-Forecasting-and-Price-Optimization/
+│
+├── data/                   # Raw & processed datasets
+├── notebooks/              # Jupyter notebooks for analysis & modeling
+├── visuals/                # PNG images & plots generated from Python
+├── requirements.txt        # Required Python libraries
+├── README.md               # Project documentation
+└── main.py                 # Main script to run the project (if applicable)
 
 ---
 
@@ -61,6 +75,22 @@ Used **Python** libraries to:
 - Statsmodels (ARIMA)
 - Facebook Prophet
 - Jupyter Notebook
+
+---
+
+🚀 Usage
+Data Preparation: Place your dataset in the data/ folder.
+
+Run the Notebook: Open the .ipynb files in the notebooks/ folder to process the data and train models.
+
+---
+
+🧠 Features
+Time Series forecasting using ARIMA/Prophet models
+
+Price elasticity analysis for optimal pricing
+
+Automated preprocessing pipeline
 
 ---
 
