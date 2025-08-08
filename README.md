@@ -16,13 +16,17 @@ This project is a Time Series–based machine learning solution that predicts fu
 
 ## 📂 Project Structure
 
+```
 Retail-Sales-Forecasting-and-Price-Optimization/
 │
-├── data/ # Raw & processed datasets
-├── notebooks/ # Jupyter notebooks for analysis & modeling
-├── visuals/ # PNG images & plots generated from Python
-├── requirements.txt # Required Python libraries
-├── README.md # Project documentation
+├── data/                   # Raw & processed datasets
+├── notebooks/              # Jupyter notebooks for analysis & modeling
+├── visuals/                # PNG images & plots generated from Python
+├── dashboard/              # Dashboard files (if any)
+├── requirements.txt        # Required Python libraries
+├── README.md               # Project documentation
+└── main.py                 # Main script to run the project (if applicable)
+```
 
 ---
 
