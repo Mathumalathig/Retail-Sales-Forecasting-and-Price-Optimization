@@ -14,7 +14,7 @@ This project is a Time Series–based machine learning solution that predicts fu
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 Retail-Sales-Forecasting-and-Price-Optimization/
 │
