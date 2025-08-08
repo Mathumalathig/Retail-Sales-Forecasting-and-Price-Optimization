@@ -24,8 +24,7 @@ Retail-Sales-Forecasting-and-Price-Optimization/
 ├── visuals/                # PNG images & plots generated from Python
 ├── dashboard/              # Dashboard files (if any)
 ├── requirements.txt        # Required Python libraries
-├── README.md               # Project documentation
-└── main.py                 # Main script to run the project (if applicable)
+└── README.md               # Project documentation
 ```
 
 ---
